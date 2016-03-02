@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "deruelle",
-    "repositoryName": "deruelle.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"deruelle","repositoryName":"deruelle.github.io","branch":"master"},"site":{"title":"RestComm Documentation","description":"RestComm Documentation","logo":"https://en.gravatar.com/userimage/6825612/e5a89fd5049acb0e41332da962513223.png?size=200","postsPerPage":"10","url":"https://deruelle.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//deruelle.github.io/themes/Casper"}}
